@@ -1,0 +1,16 @@
+proj.ios_mac/ios/libjscocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libluacocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libsimulator[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libcocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libcocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libjscocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libluacocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libsimulator[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libjscocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libluacocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libsimulator[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libcocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libcocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libjscocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libluacocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+proj.ios_mac/ios/libsimulator[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
